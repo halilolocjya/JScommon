@@ -1,4 +1,2 @@
-test
-```
-hhhh
-```
+arrayopt.js主要放置的是对数组的操作
+resizeTop放的是缩放窗口监控变化。
